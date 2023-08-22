@@ -1,0 +1,229 @@
+{
+  "columns": [
+    {
+      "width": 51,
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false
+    },
+    {
+      "field": "Gender",
+      "title": "Gender",
+      "width": 102,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "10percentage",
+      "title": "10percentage",
+      "width": 141,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "12percentage",
+      "title": "12percentage",
+      "width": 141,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "CollegeTier",
+      "title": "CollegeTier",
+      "width": 126,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Degree",
+      "title": "Degree",
+      "width": 101,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "collegeGPA",
+      "title": "collegeGPA",
+      "width": 126,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "CollegeCityTier",
+      "title": "CollegeCityTier",
+      "width": 149,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "English",
+      "title": "English",
+      "width": 100,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Logical",
+      "title": "Logical",
+      "width": 100,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Quant",
+      "title": "Quant",
+      "width": 95,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Domain",
+      "title": "Domain",
+      "width": 141,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "ComputerProgramming",
+      "title": "ComputerProgramming",
+      "width": 203,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "ElectronicsAndSemicon",
+      "title": "ElectronicsAndSemicon",
+      "width": 200,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "ComputerScience",
+      "title": "ComputerScience",
+      "width": 165,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "MechanicalEngg",
+      "title": "MechanicalEngg",
+      "width": 157,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "ElectricalEngg",
+      "title": "ElectricalEngg",
+      "width": 142,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "TelecomEngg",
+      "title": "TelecomEngg",
+      "width": 139,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "CivilEngg",
+      "title": "CivilEngg",
+      "width": 113,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "conscientiousness",
+      "title": "conscientiousness",
+      "width": 167,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "agreeableness",
+      "title": "agreeableness",
+      "width": 144,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "extraversion",
+      "title": "extraversion",
+      "width": 131,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "nueroticism",
+      "title": "nueroticism",
+      "width": 129,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "openess_to_experience",
+      "title": "openess_to_experience",
+      "width": 198,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Salary",
+      "title": "Salary",
+      "width": 93,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    }
+  ]
+}

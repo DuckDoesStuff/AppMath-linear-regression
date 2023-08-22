@@ -1,0 +1,127 @@
+{
+  "fields": [
+    {
+      "name": "Gender",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "10percentage",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "12percentage",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "CollegeTier",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Degree",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "collegeGPA",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "CollegeCityTier",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "English",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Logical",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Quant",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Domain",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "ComputerProgramming",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "ElectronicsAndSemicon",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "ComputerScience",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "MechanicalEngg",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "ElectricalEngg",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "TelecomEngg",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "CivilEngg",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "conscientiousness",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "agreeableness",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "extraversion",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "nueroticism",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "openess_to_experience",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Salary",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
